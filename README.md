@@ -12,21 +12,13 @@ Taught on-campus at [HSE](https://cs.hse.ru) and [YSDA](https://yandexdataschool
 [![Github contributors](https://img.shields.io/github/contributors/yandexdataschool/Practical_RL.svg?logo=github&logoColor=white)](https://github.com/yandexdataschool/Practical_RL/graphs/contributors)
 
 # Course info
-* __Chat room__ for YSDA & HSE students is [here](http://t.me/practical_rl_2020)
-* __Grading__ rules for YSDA & HSE students is [here](https://github.com/yandexdataschool/Practical_RL/wiki/Homeworks-and-grading)
 
 * __FAQ:__ [About the course](https://github.com/yandexdataschool/Practical_RL/wiki/Practical-RL), [Technical issues thread](https://github.com/yandexdataschool/Practical_RL/issues/1), [Lecture Slides](https://yadi.sk/d/loPpY45J3EAYfU), [Online Student Survival Guide](https://github.com/yandexdataschool/Practical_RL/wiki/Online-student's-survival-guide)
-
-* Anonymous [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdurWw97Sm9xCyYwC8g3iB5EibITnoPJW2IkOVQYE_kcXPh6Q/viewform).
 
 * Virtual course environment: 
     * [__Google Colab__](https://colab.research.google.com/) - set open -> github -> yandexdataschool/pracical_rl -> {branch name} and select any notebook you want.
     * [Installing dependencies](https://github.com/yandexdataschool/Practical_RL/issues/1) on your local machine (recommended).
     * Alternative: [Azure Notebooks](https://notebooks.azure.com/).
-
-
-# Additional materials
-* [RL reading group](https://github.com/yandexdataschool/Practical_RL/wiki/RL-reading-group)
 
 
 # Syllabus
@@ -82,26 +74,4 @@ The syllabus is approximate: the lectures may occur in a slightly different orde
 
 * [__yet_another_week__](./yet_another_week) Inverse RL and Imitation Learning
   * All that cool RL stuff that you won't learn from this course :)
-
-
-# Course staff
-Course materials and teaching by: _[unordered]_
-- [Pavel Shvechikov](https://github.com/bestxolodec) - lectures, seminars, hw checkups, reading group
-- [Nikita Putintsev](https://github.com/qwasser) - seminars, hw checkups, organizing our hot mess
-- [Alexander Fritsler](https://github.com/Fritz449) - lectures, seminars, hw checkups
-- [Oleg Vasilev](https://github.com/Omrigan) - seminars, hw checkups, technical support
-- [Dmitry Nikulin](https://github.com/pastafarianist) - tons of fixes, far and wide
-- [Mikhail Konobeev](https://github.com/MichaelKonobeev) - seminars, hw checkups
-- [Ivan Kharitonov](https://github.com/neer201) - seminars, hw checkups
-- [Ravil Khisamov](https://github.com/zshrav) - seminars, hw checkups
-- [Anna Klepova](https://github.com/q0o0p) - hw checkups
-- [Fedor Ratnikov](https://github.com/justheuristic) - admin stuff
-
-# Contributions
-* Using pictures from [Berkeley AI course](http://ai.berkeley.edu/home.html)
-* Massively refering to [CS294](http://rll.berkeley.edu/deeprlcourse/)
-* Several tensorflow assignments by [Scitator](https://github.com/Scitator)
-* A lot of fixes from [arogozhnikov](https://github.com/arogozhnikov)
-* Other awesome people: see github [contributors](https://github.com/yandexdataschool/Practical_RL/graphs/contributors)
-* [Alexey Umnov](https://github.com/alexeyum) helped us a lot during spring2018
 
